@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'home_controller.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -28,6 +27,5 @@ class _HomePageState extends State<HomePage> {
         },
       ),
     );
-    ;
   }
 }
